@@ -9,7 +9,8 @@
     "Acceleration":15.5,
     "Year":"2019-10-14",
     "Origin":"USA",
-    "Price": 4383
+    "Price": 4383,
+    "Max_speed_in_KmH": 222
   },
   {
     "Name":"ford maverick",
@@ -18,10 +19,11 @@
     "Displacement":200,
     "Horsepower":85,
     "Weight_in_lbs":2587,
-    "Acceleration":16,
+    "Acceleration":16.0,
     "Year":"2000-05-21",
     "Origin":"USA",
-    "Price": 1015
+    "Price": 1015,
+    "Max_speed_in_KmH": 153
   },
   {
     "Name":"datsun pl510",
@@ -33,7 +35,8 @@
     "Acceleration":14.5,
     "Year":"2019-12-24",
     "Origin":"Japan",
-    "Price": 1105
+    "Price": 1105,
+    "Max_speed_in_KmH": 156
   },
   {
     "Name":"volkswagen 1131 deluxe sedan",
@@ -45,7 +48,8 @@
     "Acceleration":20.5,
     "Year":"2020-01-12",
     "Origin":"Europe",
-    "Price": 4160
+    "Price": 4160,
+    "Max_speed_in_KmH": 188
   },
   {
     "Name":"peugeot 504",
@@ -57,7 +61,8 @@
     "Acceleration":17.5,
     "Year":"1982-06-13",
     "Origin":"Europe",
-    "Price": 3765
+    "Price": 3765,
+    "Max_speed_in_KmH": 290
   },
   {
     "Name":"audi 100 ls",
@@ -69,7 +74,8 @@
     "Acceleration":14.5,
     "Year":"1994-09-01",
     "Origin":"Europe",
-    "Price": 3996
+    "Price": 3996,
+    "Max_speed_in_KmH": 213
   },
   {
     "Name":"saab 99e",
@@ -81,7 +87,8 @@
     "Acceleration":17.5,
     "Year":"2006-05-05",
     "Origin":"Europe",
-    "Price": 1070
+    "Price": 1070,
+    "Max_speed_in_KmH": 131
   },
   {
     "Name":"bmw 2002",
@@ -93,7 +100,8 @@
     "Acceleration":12.5,
     "Year":"1982-03-20",
     "Origin":"Europe",
-    "Price":  658
+    "Price":  658,
+    "Max_speed_in_KmH": 296
   },
   {
     "Name":"amc gremlin",
@@ -102,10 +110,11 @@
     "Displacement":199,
     "Horsepower":90,
     "Weight_in_lbs":2648,
-    "Acceleration":15,
+    "Acceleration":15.0,
     "Year":"1990-05-02",
     "Origin":"USA",
-    "Price": 2102
+    "Price": 2102,
+    "Max_speed_in_KmH": 130
   },
   {
     "Name":"ford f250",
@@ -114,9 +123,10 @@
     "Displacement":360,
     "Horsepower":215,
     "Weight_in_lbs":4615,
-    "Acceleration":14,
+    "Acceleration":14.0,
     "Year":"2007-07-08",
     "Origin":"USA",
-    "Price":  757
+    "Price":  757,
+    "Max_speed_in_KmH": 260
   }
 ]

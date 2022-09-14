@@ -6,10 +6,11 @@
     "Displacement":307,
     "Horsepower":130,
     "Weight_in_lbs":3504,
-    "Acceleration":12,
+    "Acceleration":12.0,
     "Year":"2001-09-27",
     "Origin":"USA",
-    "Price": 6842
+    "Price": 6842,
+    "Max_speed_in_KmH": 243
   },
   {
     "Name":"buick skylark 320",
@@ -21,7 +22,8 @@
     "Acceleration":11.5,
     "Year":"1977-09-21",
     "Origin":"USA",
-    "Price": 8431
+    "Price": 8431,
+    "Max_speed_in_KmH": 285
   },
   {
     "Name":"plymouth satellite",
@@ -30,10 +32,11 @@
     "Displacement":318,
     "Horsepower":150,
     "Weight_in_lbs":3436,
-    "Acceleration":11,
+    "Acceleration":11.0,
     "Year":"2014-04-04",
     "Origin":"USA",
-    "Price": 1354
+    "Price": 1354,
+    "Max_speed_in_KmH": 136
   },
   {
     "Name":"amc rebel sst",
@@ -42,10 +45,11 @@
     "Displacement":304,
     "Horsepower":150,
     "Weight_in_lbs":3433,
-    "Acceleration":12,
+    "Acceleration":12.0,
     "Year":"1981-05-04",
     "Origin":"USA",
-    "Price": 8330
+    "Price": 8330,
+    "Max_speed_in_KmH": 142
   },
   {
     "Name":"ford torino",
@@ -57,7 +61,8 @@
     "Acceleration":10.5,
     "Year":"1998-07-14",
     "Origin":"USA",
-    "Price": 6678
+    "Price": 6678,
+    "Max_speed_in_KmH": 264
   },
   {
     "Name":"ford galaxie 500",
@@ -66,10 +71,11 @@
     "Displacement":429,
     "Horsepower":198,
     "Weight_in_lbs":4341,
-    "Acceleration":10,
+    "Acceleration":10.0,
     "Year":"2011-02-18",
     "Origin":"USA",
-    "Price": 7570
+    "Price": 7570,
+    "Max_speed_in_KmH": 114
   },
   {
     "Name":"chevrolet impala",
@@ -78,10 +84,11 @@
     "Displacement":454,
     "Horsepower":220,
     "Weight_in_lbs":4354,
-    "Acceleration":9,
+    "Acceleration":9.0,
     "Year":"1972-09-05",
     "Origin":"USA",
-    "Price": 5483
+    "Price": 5483,
+    "Max_speed_in_KmH": 104
   },
   {
     "Name":"plymouth fury iii",
@@ -93,7 +100,8 @@
     "Acceleration":8.5,
     "Year":"2003-02-06",
     "Origin":"USA",
-    "Price": 3266
+    "Price": 3266,
+    "Max_speed_in_KmH": 137
   },
   {
     "Name":"pontiac catalina",
@@ -102,10 +110,11 @@
     "Displacement":455,
     "Horsepower":225,
     "Weight_in_lbs":4425,
-    "Acceleration":10,
+    "Acceleration":10.0,
     "Year":"1984-07-17",
     "Origin":"USA",
-    "Price": 1763
+    "Price": 1763,
+    "Max_speed_in_KmH": 251
   },
   {
     "Name":"amc ambassador dpl",
@@ -117,11 +126,12 @@
     "Acceleration":8.5,
     "Year":"1992-08-26",
     "Origin":"USA",
-    "Price": 9157
+    "Price": 9157,
+    "Max_speed_in_KmH": 134
   },
   {
     "Name":"citroen ds-21 pallas",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":14,
     "Cylinders":4,
     "Displacement":133,
     "Horsepower":115,
@@ -129,11 +139,12 @@
     "Acceleration":17.5,
     "Year":"1997-08-18",
     "Origin":"Europe",
-    "Price": 3503
+    "Price": 3503,
+    "Max_speed_in_KmH": 220
   },
   {
     "Name":"chevrolet chevelle concours (sw)",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":16,
     "Cylinders":8,
     "Displacement":350,
     "Horsepower":165,
@@ -141,23 +152,25 @@
     "Acceleration":11.5,
     "Year":"1988-02-09",
     "Origin":"USA",
-    "Price": 1821
+    "Price": 1821,
+    "Max_speed_in_KmH": 218
   },
   {
     "Name":"ford torino (sw)",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":17,
     "Cylinders":8,
     "Displacement":351,
     "Horsepower":153,
     "Weight_in_lbs":4034,
-    "Acceleration":11,
+    "Acceleration":11.0,
     "Year":"1977-06-24",
     "Origin":"USA",
-    "Price": 3946
+    "Price": 3946,
+    "Max_speed_in_KmH": 270
   },
   {
     "Name":"plymouth satellite (sw)",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":11,
     "Cylinders":8,
     "Displacement":383,
     "Horsepower":175,
@@ -165,19 +178,21 @@
     "Acceleration":10.5,
     "Year":"1994-09-13",
     "Origin":"USA",
-    "Price": 2959
+    "Price": 2959,
+    "Max_speed_in_KmH": 210
   },
   {
     "Name":"amc rebel sst (sw)",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":18,
     "Cylinders":8,
     "Displacement":360,
     "Horsepower":175,
     "Weight_in_lbs":3850,
-    "Acceleration":11,
+    "Acceleration":11.0,
     "Year":"2010-12-06",
     "Origin":"USA",
-    "Price":  8528
+    "Price":  8528,
+    "Max_speed_in_KmH": 275
   },
   {
     "Name":"dodge challenger se",
@@ -186,10 +201,11 @@
     "Displacement":383,
     "Horsepower":170,
     "Weight_in_lbs":3563,
-    "Acceleration":10,
+    "Acceleration":10.0,
     "Year":"1992-08-03",
     "Origin":"USA",
-    "Price": 5465
+    "Price": 5465,
+    "Max_speed_in_KmH": 159
   },
   {
     "Name":"plymouth 'cuda 340",
@@ -198,22 +214,24 @@
     "Displacement":340,
     "Horsepower":160,
     "Weight_in_lbs":3609,
-    "Acceleration":8,
+    "Acceleration":8.0,
     "Year":"2002-08-01",
     "Origin":"USA",
-    "Price":  4009
+    "Price":  4009,
+    "Max_speed_in_KmH":  94
   },
   {
     "Name":"ford mustang boss 302",
-    "Miles_per_Gallon":null,
+    "Miles_per_Gallon":13,
     "Cylinders":8,
     "Displacement":302,
     "Horsepower":140,
     "Weight_in_lbs":3353,
-    "Acceleration":8,
+    "Acceleration":8.0,
     "Year":"1994-12-16",
     "Origin":"USA",
-    "Price":  8297
+    "Price":  8297,
+    "Max_speed_in_KmH":  88
   },
   {
     "Name":"chevrolet monte carlo",
@@ -225,7 +243,8 @@
     "Acceleration":9.5,
     "Year":"1982-11-26",
     "Origin":"USA",
-    "Price":  8619
+    "Price":  8619,
+    "Max_speed_in_KmH": 108
   },
   {
     "Name":"buick estate wagon (sw)",
@@ -234,10 +253,11 @@
     "Displacement":455,
     "Horsepower":225,
     "Weight_in_lbs":3086,
-    "Acceleration":10,
+    "Acceleration":10.0,
     "Year":"2017-05-11",
     "Origin":"USA",
-    "Price":  2916
+    "Price":  2916,
+    "Max_speed_in_KmH": 259
   },
   {
     "Name":"toyota corona mark ii",
@@ -246,10 +266,11 @@
     "Displacement":113,
     "Horsepower":95,
     "Weight_in_lbs":2372,
-    "Acceleration":15,
+    "Acceleration":15.0,
     "Year":"1972-02-29",
     "Origin":"Japan",
-    "Price":  5180
+    "Price":  5180,
+    "Max_speed_in_KmH": 170
   },
   {
     "Name":"plymouth duster",
@@ -261,6 +282,7 @@
     "Acceleration":15.5,
     "Year":"1993-12-01",
     "Origin":"USA",
-    "Price": 2280
+    "Price": 2280,
+    "Max_speed_in_KmH": 241
   }
 ]
