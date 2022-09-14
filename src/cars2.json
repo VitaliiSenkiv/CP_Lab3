@@ -1,0 +1,122 @@
+[
+  {
+    "Name":"amc hornet",
+    "Miles_per_Gallon":18,
+    "Cylinders":6,
+    "Displacement":199,
+    "Horsepower":97,
+    "Weight_in_lbs":2774,
+    "Acceleration":15.5,
+    "Year":"2019-10-14",
+    "Origin":"USA",
+    "Price": 4383
+  },
+  {
+    "Name":"ford maverick",
+    "Miles_per_Gallon":21,
+    "Cylinders":6,
+    "Displacement":200,
+    "Horsepower":85,
+    "Weight_in_lbs":2587,
+    "Acceleration":16,
+    "Year":"2000-05-21",
+    "Origin":"USA",
+    "Price": 1015
+  },
+  {
+    "Name":"datsun pl510",
+    "Miles_per_Gallon":27,
+    "Cylinders":4,
+    "Displacement":97,
+    "Horsepower":88,
+    "Weight_in_lbs":2130,
+    "Acceleration":14.5,
+    "Year":"2019-12-24",
+    "Origin":"Japan",
+    "Price": 1105
+  },
+  {
+    "Name":"volkswagen 1131 deluxe sedan",
+    "Miles_per_Gallon":26,
+    "Cylinders":4,
+    "Displacement":97,
+    "Horsepower":46,
+    "Weight_in_lbs":1835,
+    "Acceleration":20.5,
+    "Year":"2020-01-12",
+    "Origin":"Europe",
+    "Price": 4160
+  },
+  {
+    "Name":"peugeot 504",
+    "Miles_per_Gallon":25,
+    "Cylinders":4,
+    "Displacement":110,
+    "Horsepower":87,
+    "Weight_in_lbs":2672,
+    "Acceleration":17.5,
+    "Year":"1982-06-13",
+    "Origin":"Europe",
+    "Price": 3765
+  },
+  {
+    "Name":"audi 100 ls",
+    "Miles_per_Gallon":24,
+    "Cylinders":4,
+    "Displacement":107,
+    "Horsepower":90,
+    "Weight_in_lbs":2430,
+    "Acceleration":14.5,
+    "Year":"1994-09-01",
+    "Origin":"Europe",
+    "Price": 3996
+  },
+  {
+    "Name":"saab 99e",
+    "Miles_per_Gallon":25,
+    "Cylinders":4,
+    "Displacement":104,
+    "Horsepower":95,
+    "Weight_in_lbs":2375,
+    "Acceleration":17.5,
+    "Year":"2006-05-05",
+    "Origin":"Europe",
+    "Price": 1070
+  },
+  {
+    "Name":"bmw 2002",
+    "Miles_per_Gallon":26,
+    "Cylinders":4,
+    "Displacement":121,
+    "Horsepower":113,
+    "Weight_in_lbs":2234,
+    "Acceleration":12.5,
+    "Year":"1982-03-20",
+    "Origin":"Europe",
+    "Price":  658
+  },
+  {
+    "Name":"amc gremlin",
+    "Miles_per_Gallon":21,
+    "Cylinders":6,
+    "Displacement":199,
+    "Horsepower":90,
+    "Weight_in_lbs":2648,
+    "Acceleration":15,
+    "Year":"1990-05-02",
+    "Origin":"USA",
+    "Price": 2102
+  },
+  {
+    "Name":"ford f250",
+    "Miles_per_Gallon":10,
+    "Cylinders":8,
+    "Displacement":360,
+    "Horsepower":215,
+    "Weight_in_lbs":4615,
+    "Acceleration":14,
+    "Year":"2007-07-08",
+    "Origin":"USA",
+    "Price":  757
+  }
+]
