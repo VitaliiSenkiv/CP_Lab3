@@ -15,6 +15,13 @@ public class CarData {
     private int priceInUsd;
     private int maxSpeedInKmH;
 
+    @Override
+    public String toString() {
+        return String.format("name: %s, %d miles per gallon, cylinders: %d, displacement: %d miles" +
+                "horsepower: %d, weight: %d(lbs), acceleration %f(Mps), release: %s, origin: %s " +
+                "price: $%d, max speed: %dKmH", name, milesPerGallon, cylindersCount, displacement,
+                horsepower, weightInLbs, accelerationInMps, releaseDate, origin, priceInUsd, maxSpeedInKmH);
+    }
 
     public String getName() {
         return name;
